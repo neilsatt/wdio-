@@ -1,2 +1,2 @@
-# wdio-
+# wdio
 WebdriverIO Repository
